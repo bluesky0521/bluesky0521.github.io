@@ -105,7 +105,8 @@ deploy:
   type: 'git'
   repo: https://github.com/bluesky0521/bluesky0521.github.io.git
   branch: main
-  token: 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
+  token: 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
 
-aplayer:
-    meting: true
+aplayer:  
+  meting: true  
+  asset_inject: false
